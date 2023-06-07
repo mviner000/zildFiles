@@ -60,6 +60,24 @@ const Home: NextPage = () => {
                 working with dates, times, and performing various operations.
               </div>
             </Link>
+            <Link
+              className="flex max-w-xs flex-col gap-4 rounded-xl bg-white/10 p-4 text-white hover:bg-white/20"
+              href="https://shrinke.me/dabarsnakebeta1java"
+              target="_blank"
+            >
+              <h3 className="text-2xl font-bold">
+                🐍 Java Snake{" "}
+                <span className="text-[hsl(280,100%,70%)] underline">
+                  Link{" "}
+                </span>{" "}
+                →
+              </h3>
+              <div className="text-lg">
+                Embark on a thrilling journey in DabarSnake, made in Java Swing,
+                where you'll maneuver through exciting levels, avoid obstacles,
+                and save all EB Dabarkads!
+              </div>
+            </Link>
           </div>
           <div className="flex flex-col items-center gap-2">
             <p className="text-2xl text-white">
