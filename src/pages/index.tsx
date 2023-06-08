@@ -74,8 +74,8 @@ const Home: NextPage = () => {
               </h3>
               <div className="text-lg">
                 Embark on a thrilling journey in DabarSnake, made in Java Swing,
-                where you'll maneuver through exciting levels, avoid obstacles,
-                and save all EB Dabarkads!
+                where you will maneuver through exciting levels, avoid
+                obstacles, and save all EB Dabarkads!
               </div>
             </Link>
           </div>
